@@ -1,1 +1,30 @@
-{}
+{
+    "sani": {
+        "filmes": [],
+        "series": [
+            {
+                "nome": "SADASD",
+                "genero": "ASDASD",
+                "ano": "ASDASD",
+                "diretor": "SADSAD",
+                "nota": 0.0,
+                "assistido": false,
+                "data": ""
+            }
+        ]
+    },
+    "maybeomkai": {
+        "filmes": [
+            {
+                "nome": "Teen Beach Movie",
+                "genero": "Musical",
+                "ano": "2013",
+                "diretor": "Disney",
+                "nota": 5.0,
+                "assistido": true,
+                "data": "08/06/2025"
+            }
+        ],
+        "series": []
+    }
+}
